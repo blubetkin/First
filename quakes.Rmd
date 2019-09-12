@@ -12,10 +12,10 @@ earthquakes <- data(quakes)
 print(summary(quakes))
 ```
 
-#Background
+# Background
 
 Tis me Backy
 
-#Analysis
+# Analysis
 
 Analysis boi
